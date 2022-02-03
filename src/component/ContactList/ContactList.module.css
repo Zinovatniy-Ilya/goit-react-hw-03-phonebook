@@ -1,0 +1,10 @@
+.list {
+    width: 450px;
+    display: inline-block;
+  }
+  
+  .listItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
